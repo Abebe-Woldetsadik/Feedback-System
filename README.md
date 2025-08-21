@@ -26,4 +26,4 @@ Have a custom permission (view_all_feedback) that allows them to view feedback f
 Can generate reports or summaries from feedback data.
 Director logs in → System shows all feedback records with summary tools.
 
-Admin manages users → Assigns teachers, students, and directors to appropriate groups with permissions.
+Admin manages users → Assigns teachers, and directors to appropriate groups with permissions.
